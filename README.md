@@ -6,7 +6,7 @@
 
 ## Preamble
 
-_Above the Clouds_ is a NSFW Visual overhaul of _Final Fantasy 7 Remake Intergrade_ for _Steam,_ featuring your choice of nudity level (from extreme to subtle) and a revamp of the difficulty for a more engaging experience. A a SFW profile for those who can't handle the heat.
+_Above the Clouds_ is a NSFW Visual overhaul of _Final Fantasy 7 Remake Intergrade_ for _Steam,_ featuring your choice of nudity level (from extreme to subtle) and a revamp of the difficulty for a more engaging experience. Also a SFW profile for those who can't handle the heat.
 
 #### More Information
 
