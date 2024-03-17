@@ -49,7 +49,7 @@ There are a lot of different scenarios where _Wabbajack_ will produce an error. 
 
 **Could not download x:**
 
-There may be an issue with the theme I have chosen for this list. You may need to download it manually. Link is [here.](https://www.nexusmods.com/starfield/mods/2820?tab=files&file_id=8292)
+There may be an issue with the Mod Organizer 2 theme I have chosen for this list. You may need to download it manually. Link is [here.](https://www.nexusmods.com/starfield/mods/2820?tab=files&file_id=8292)
 
 
 Some Internet providers have difficulty accessing the servers which host the files comprising the list. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again.
