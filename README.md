@@ -66,6 +66,10 @@ Launch _ModOrganizer.exe_ from the directory in which you installed the list. La
 
 That's it!
 
+## Editing the Modlist
+
+You can add what you want fairly easily as long as you are familiar with MO2. Just tick or untick any of the mods in the list.
+
 ## Updating the Modlist
 
 Download the modlist's `.wabbajack` file again and specify the same directories. _Wabbajack_ will only update what has changed, it will not repeat the entire installation. 
