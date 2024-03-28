@@ -68,6 +68,7 @@ That's it!
 
 ## Editing the Modlist
 
+I'm open to suggestions for adding mods to the main list, but don't be too disappointed if I say no.
 You can add what you want fairly easily as long as you are familiar with MO2. Just tick or untick any of the mods in the list. Make sure you're reading carefully and don't have multiple mods of the same type activated.
 
 ## Updating the Modlist
