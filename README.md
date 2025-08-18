@@ -42,7 +42,7 @@ Exclude antivirus and anti-malware programs from monitoring three directories: t
 ##  Using Wabbajack
 
 Login to _Nexus_ with the _Wabbajack_ app. This login can be found by clicking the **GEAR** icon in the top right. It will toggle over to "logged in" when successful.
-Select install from disk from the wabbajack main menu and select the Above the Clouds.wabbajack file to install.
+Navigate to the Browse modlist section and select install from disk at the top right of the app screen. Once the menua open you will need to select the Above the Clouds.wabbajack file to install.
 
 ##  Problems with Wabbajack
 
