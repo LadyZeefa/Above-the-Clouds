@@ -75,7 +75,7 @@ Download the modlist's `.wabbajack` file again and specify the same directories.
 
 ## Removing the Modlist
 
-You can just remove the _Above the Clouds_ folder to uninstall the list.
+You can just delete the _Above the Clouds_ folder to uninstall the list.
 
 ## Contact
 
