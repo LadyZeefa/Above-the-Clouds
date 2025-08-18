@@ -46,7 +46,7 @@ Navigate to the Browse modlist section and select install from disk at the top r
 
 ##  Problems with Wabbajack
 
-There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ before seeking assistance. _Wabbajack_ will only download and reinstall the bare minimum necessary to get the modlist working. 
+There are a lot of different scenarios where _Wabbajack_ will produce an error. Re-run _Wabbajack_ and read the information above before seeking assistance. 
 
 **Could not download x:**
 
