@@ -50,10 +50,7 @@ There are a lot of different scenarios where _Wabbajack_ will produce an error. 
 
 **Could not download x:**
 
-There may be an issue with the Mod Organizer 2 theme I have chosen for this list. You may need to download it manually. Link is [here.](https://www.nexusmods.com/starfield/mods/2820?tab=files&file_id=8292)
-
-
-Some Internet providers have difficulty accessing the servers which host the files comprising the list. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again.
+Some Internet providers have difficulty accessing the servers which host the files comprising the list. Use a VPN (Virtual Private Network) with a terminus set to the United States. Free options include _ProtonVPN_ and _Cloudflare WARP._ If a download gets interrupted, delete all corrupt local copies before trying again. This does not mean you should nuke yor whole downloads folder!
 
 **Wabbajack could not find my game folder:**
 
@@ -63,7 +60,7 @@ _Above the Clouds_ will not work with anything but a legitimate copy of _Final F
 
 ### Launching the Modlist
 
-Launch _ModOrganizer.exe_ from the directory in which you installed the list. Launch the game from the **FINAL FANTASY VII REMAKE** entry in the drop-down menu.
+Launch _ModOrganizer.exe_ from the directory in which you installed the list. Make sure to choose the profile you want to play one and select the outfit you want for certain characters. Launch the game from the **FINAL FANTASY VII REMAKE** entry in the drop-down menu.
 
 That's it!
 
@@ -82,6 +79,6 @@ You can just remove the _Above the Clouds_ folder to uninstall the list.
 
 ## Contact
 
-I am regularly available on [this discord server](https://discord.gg/jolly-coop) if you need assistance but it should be very easy to install.
+I am regularly available on [this discord server](https://discord.gg/iAmModlist) if you need assistance but it should be very easy to install.
 
 
